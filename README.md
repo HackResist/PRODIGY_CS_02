@@ -1,4 +1,4 @@
-# Image Encryption and Decryption Tool
+# Pixel Manipulation for Image Encryption Tool
 > If you like this repository, don't forget to give it a ⭐!
 ## Overview
 
